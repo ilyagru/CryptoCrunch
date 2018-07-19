@@ -97,7 +97,10 @@ main {
 .main-link {
     display: block;
     margin: 20px 0 50px;
-    opacity: 0.5;
+}
+
+.main-description {
+    margin: 20px 0;
 }
 
 .img-download {
