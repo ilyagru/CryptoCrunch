@@ -4,7 +4,7 @@
 
 https://ilyagru.github.io/crispycrypto
 
-[![Download on the App Store](img/Download_on_the_App_Store_Badge_US-UK_135x40.svg)](https://itunes.apple.com/us/app/crispycrypto/id1412148566)
+[![Download on the App Store](img/Download_on_the_App_Store_Badge_US-UK_135x40@2x.png)](https://itunes.apple.com/us/app/crispycrypto/id1412148566)
 
 ---
 
