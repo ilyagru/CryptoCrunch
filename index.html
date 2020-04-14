@@ -42,8 +42,9 @@
                 <a class="main-link" href="https://itunes.apple.com/us/app/crispycrypto/id1412148566">
                     <img class="img-download" src="img/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Download on the App Store">
                 </a>
-                <p>For all questions or support email here: <strong>ilya.gruzhevski[at]gmail.com</strong></p>
-                <p>Ilya Gruzhevski &copy; 2018 All rights reserved</p>
+                <p><a href="/privacy-policy.html">Privacy Policy</a></p>
+                <p>For all questions or support please leave a review on <strong>the App Store</strong>.</p>
+                <p>Ilya Gruzhevski &copy; <span id="year"></span> All rights reserved</p>
                 <div class="main-note">
                     <p>IMPORTANT NOTE</p>
                     <small>The game does NOT involve any real-world mining, especially on your iPhone.<br/>We don’t want to warm up your iPhone and burn your hands!</small>
@@ -51,5 +52,8 @@
             </div>
         </main>
     </div>
+    <script type="text/javascript">
+        document.getElementById('year').appendChild(document.createTextNode(new Date().getFullYear()))
+    </script>
 </body>
 </html>

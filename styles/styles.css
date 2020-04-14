@@ -36,6 +36,31 @@ body {
     text-shadow: 0px 1px #420053;
 }
 
+html#privacy-policy {
+    height: auto;
+}
+
+html#privacy-policy body {
+    height: auto;
+    background: #61dfff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#61dfff), to(#10BAE4)) no-repeat;
+    background: -o-linear-gradient(#61dfff, #10BAE4) no-repeat;
+    background: linear-gradient(#61dfff, #10BAE4) no-repeat;
+}
+
+html#privacy-policy header {
+    margin: 20px 30px;
+    margin-bottom: 40px;
+}
+
+html#privacy-policy h1 {
+    margin-top: 32px;
+}
+
+html#privacy-policy p, ul {
+    font-size: 20px;
+}
+
 img {
     display: block;
 }
@@ -48,14 +73,25 @@ img {
 
 h1 {
     font-size: 48px;
+    margin-bottom: 32px;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+ul li {
+    margin-bottom: 16px;
 }
 
 p {
     font-size: 18px;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
 }
 
 a {
+    font-size: 20px;
     color: #fff;
 }
 
@@ -110,6 +146,10 @@ main {
 
 .img-download {
     width: 135px;
+}
+
+.center {
+    text-align: center;
 }
 
 main div {

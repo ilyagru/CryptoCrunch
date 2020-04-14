@@ -8,4 +8,4 @@ https://ilyagru.github.io/crispycrypto
 
 ---
 
-Copyright &copy; 2018 CrispyCrypto
+Copyright &copy; 2020 CrispyCrypto
